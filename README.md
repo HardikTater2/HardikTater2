@@ -235,29 +235,17 @@ Strong baselines, controlled benchmarks, significance tests, and checking whethe
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HardikTater2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HardikTater2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTater2&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTater2&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top languages" />
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HardikTater2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=6e7681" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTater2&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=6e7681" alt="Top languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HardikTater2&theme=github-dark-blue&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com?user=HardikTater2&hide_border=true&background=00000000" alt="Contribution streak" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=HardikTater2&hide_border=true&background=00000000&ring=2f81f7&fire=f78166&currStreakNum=2f81f7&sideNums=2f81f7&currStreakLabel=2f81f7&sideLabels=6e7681&dates=6e7681" alt="Contribution streak" />
 
 <details>
-<summary><b>📈 Contribution graph</b></summary>
+<summary><b>📈 Contribution calendar</b></summary>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HardikTater2&theme=github-compact&hide_border=true&area=true&bg_color=00000000" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HardikTater2&theme=minimal&hide_border=true&area=true&bg_color=00000000" alt="Contribution graph" />
-</picture>
+<img width="100%" src="https://ghchart.rshah.org/2f81f7/HardikTater2" alt="Contribution calendar" />
 
 </details>
 
