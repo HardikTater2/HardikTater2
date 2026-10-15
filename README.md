@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=Hardik%20Tater&fontSize=44&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Developer%20%26%20Researcher&descAlignY=58&descSize=16" width="100%" alt="Hardik Tater banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=Hardik%20Tater&fontSize=44&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Developer%20and%20Researcher&descAlignY=58&descSize=16" width="100%" alt="Hardik Tater banner" />
 
 <div align="center">
 
